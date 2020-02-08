@@ -10,8 +10,8 @@ This is my camera.
 
 The demo left image and disparity image created by SGM are shown downside, the parameters is adjustable using slides.
 
-![image](https://github.com/SongKaixiang/Stereo-Matching-With-Camera/blob/master/images/left_image.jpg)
-![image](https://github.com/SongKaixiang/Stereo-Matching-With-Camera/blob/master/images/disparity.jpg)
+![image](https://github.com/SongKaixiang/Stereo-Matching-With-Camera/blob/master/images/left_image.png)
+![image](https://github.com/SongKaixiang/Stereo-Matching-With-Camera/blob/master/images/disparity.png)
 
 # Requirements.
 
